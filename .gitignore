@@ -1,0 +1,10 @@
+.claude/*
+!.claude/settings.json
+!.claude/hooks/
+.env
+.env.*
+!.env.verify.example
+node_modules/
+.DS_Store
+
+.github/
